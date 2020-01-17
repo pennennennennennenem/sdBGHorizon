@@ -2,7 +2,7 @@
 すごい！うごく！背景をあなたのMMDに 第三弾 ホライゾン編 <br>
 
 説明動画はこちら
-https://www.nicovideo.jp/watch/
+https://www.nicovideo.jp/watch/sm36239546
 
 ●何をするエフェクトなのか<br>
 背景に(一部前景とカブるように)何かを描きます<br>
